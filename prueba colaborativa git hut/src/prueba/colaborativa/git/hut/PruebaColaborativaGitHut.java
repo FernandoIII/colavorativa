@@ -18,13 +18,13 @@ public class PruebaColaborativaGitHut {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int n;
-        int m;
-        n=Integer.parseInt(JOptionPane.showInputDialog("Por favor ingrese el primer numero: "));
-        m=Integer.parseInt(JOptionPane.showInputDialog("Por favor ingrese el segundo numero: "));
-        colaborativa objeto=new colaborativa(n,m);
-        objeto.mult();
-        
+//        int n;
+//        int m;
+//        n=Integer.parseInt(JOptionPane.showInputDialog("Por favor ingrese el primer numero: "));
+//        m=Integer.parseInt(JOptionPane.showInputDialog("Por favor ingrese el segundo numero: "));
+//        colaborativa objeto=new colaborativa(n,m);
+//        objeto.mult();
+//        
         
         
                 
